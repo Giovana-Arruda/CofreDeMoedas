@@ -1,1 +1,1 @@
-Avaliação prática da disciplina de POO da Uninter. 
+Atividade prática da disciplina de POO da Uninter. 
