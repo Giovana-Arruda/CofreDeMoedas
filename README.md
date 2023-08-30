@@ -1,1 +1,1 @@
-Avaliação prática da máteria de POO da Uninter. 
+Avaliação prática da disciplina de POO da Uninter. 
